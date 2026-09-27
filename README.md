@@ -1,4 +1,4 @@
-# Mini Bank System
+# Mini Bank System 
 
 A simple Java console banking project built while learning Java fundamentals.
 
